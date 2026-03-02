@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e1bca97-8ecc-49a2-a16a-44031ec86197" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/rainbow-miniprogram.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/CODE_OF_CONDUCT.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/app.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/image/222.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/image/about.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/image/allselect.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/image/clock.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/image/complete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/image/delete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/image/fores.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/image/iconhat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/image/instruction.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/image/jilu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/image/jilu2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/image/maozi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/image/more.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/image/nodata.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/image/phone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/image/plus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/image/poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/image/rank.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/image/rest.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/image/set-up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/image/share.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/image/shezhi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/image/shezhi2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/image/todo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/image/todo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/image/tucao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/image/wechat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/image/work.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/image/yes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/image/yu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/image/yu2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/image/zhichi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/pages/about/about.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/pages/about/about.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/pages/about/about.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/pages/about/about.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/pages/index/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/pages/index/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/pages/index/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/pages/index/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/pages/logs/logs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/pages/logs/logs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/pages/logs/logs.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/pages/logs/logs.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/pages/more/more.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/pages/more/more.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/pages/more/more.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/pages/more/more.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/pages/poster/poster.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/pages/poster/poster.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/pages/poster/poster.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/pages/poster/poster.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/pages/setting/rank/rank.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/pages/setting/rank/rank.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/pages/setting/rank/rank.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/pages/setting/rank/rank.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/pages/setting/setmore/setmore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/pages/setting/setmore/setmore.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/pages/setting/setmore/setmore.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/pages/setting/setmore/setmore.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/pages/setting/setting.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/pages/setting/setting.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/pages/setting/setting.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/pages/setting/setting.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/pages/todos/todos.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/pages/todos/todos.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/pages/todos/todos.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/pages/todos/todos.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/pages/version/version.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/pages/version/version.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/pages/version/version.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/pages/version/version.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/project.config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/sitemap.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/utils/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WXminiprogram-Focus-clock/utils/wxcharts.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2FJStaDm5wOM9e8EBdDbeAmvNJ6" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e1bca97-8ecc-49a2-a16a-44031ec86197" name="Default Changelist" comment="" />
+      <created>1665323481658</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665323481658</updated>
+      <workItem from="1665323485171" duration="47000" />
+      <workItem from="1665323541926" duration="105000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
